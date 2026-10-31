@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Álbum Widget</string>
+    <string name="widget_name">Álbum</string>
+    <string name="widget_desc">Muestra imágenes de tus carpetas y las cambia cada cierto tiempo.</string>
+    <string name="tap_to_configure">Toca para elegir carpetas</string>
+</resources>
